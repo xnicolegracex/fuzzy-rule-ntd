@@ -17,4 +17,4 @@ The system uses fuzzification to process the input data and then applies a set o
 https://docs.google.com/presentation/d/1fU3E1Z4k3qfL6QA3S4C3iRbRhLMQiyP75zfMHF03Mb0/edit?usp=sharing
 
 ## System demonstration link
-https://drive.google.com/file/d/1QsnjIpKtwss4hKhovoOiCoEhxbKZ6AND/view?usp=sharing&t=658
+(https://drive.google.com/file/d/1QsnjIpKtwss4hKhovoOiCoEhxbKZ6AND/view?usp=sharing&t=654)
